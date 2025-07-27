@@ -1,6 +1,10 @@
-# About Me!
+<h1>About Me!</h1>
 
-Hi!👋 I'm Manolo. I am a high school student trying to learn how to code on the side.
+Hi!👋 I'm <strong>Manolo</strong>. I am a high school student trying to learn how to code on the side.
+
+🌱 I'm currently learning <strong>HTML</strong> and am trying to become a fullstack developer by <em>the end</em> of the school year.
+
+To all the new coders that read this as well, I would love to talk with you and learn as we go along.
 
 <!--
 **SomeGuyOnGH/SomeGuyOnGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
